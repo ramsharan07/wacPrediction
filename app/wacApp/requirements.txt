@@ -1,0 +1,9 @@
+pickle
+keras-preprocessing
+streamlit
+pandas
+matplotlib
+wordcloud
+PIL
+keras
+numpy as np

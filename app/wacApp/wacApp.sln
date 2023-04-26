@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "wacApp", "wacApp.pyproj", "{1DE551D9-A7C8-4A5D-9B0F-3310A77E4890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE551D9-A7C8-4A5D-9B0F-3310A77E4890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE551D9-A7C8-4A5D-9B0F-3310A77E4890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876D46D3-C2F1-4E5F-9360-E3DAB3E170EF}
+	EndGlobalSection
+EndGlobal
