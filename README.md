@@ -31,20 +31,6 @@ exploration as well as model development
 
 **Packages:** Keras, Tensorflow, Pandas, Numpy and NLTK
 
-### Text data treatment (WAC EDA and Modeling.ipynb, Sample Code Snippet):
-
-![](vertopal_cbcd3d5d591a4085b6696ce70ba88d8e/media/image1.png){width="6.5in"
-height="4.622222222222222in"}
-
-### MLP Model Development (WAC EDA and Modeling.ipynb, Sample Code Snippet):
-
-![](vertopal_cbcd3d5d591a4085b6696ce70ba88d8e/media/image2.png){width="6.5in"
-height="2.1319444444444446in"}
-
-### MLP Model Development (WAC EDA and Modeling.ipynb, Sample Code Snippet):
-
-![](vertopal_cbcd3d5d591a4085b6696ce70ba88d8e/media/image3.png){width="5.8872561242344705in"
-height="2.807140201224847in"}
 
 ## Web Application Development
 
@@ -60,13 +46,3 @@ while appeal.css is for custom styling
 **IDE:** Visual Studio Code
 
 **Packages:** Streamlit
-
-### WAC Price Prediction (wacApp.py, Sample Code Snippet):
-
-![](vertopal_cbcd3d5d591a4085b6696ce70ba88d8e/media/image4.png){width="6.5in"
-height="2.701388888888889in"}
-
-### Custom Styling (appeal.css, Sample Code Snippet):
-
-![](vertopal_cbcd3d5d591a4085b6696ce70ba88d8e/media/image5.png){width="5.951863517060367in"
-height="4.18661198600175in"}
